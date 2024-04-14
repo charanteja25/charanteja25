@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm eager to leverage my data analysis and engineering abilities to contribute to a data-driven organization. <br>I'm open to opportunities in both Data Analyst and Data Engineer roles where I can utilize my AWS knowledge and passion for data.
+I'm eager to leverage my data analysis and engineering abilities to contribute to a data-driven organization. I'm open to opportunities in both Data Analyst and Data Engineer roles where I can utilize my AWS knowledge and passion for data.
+- 🌍  I'm based in UK
+- ✉️  You can contact me at charanteja.teja25@gmail.com
+- 🧠  I finished my masters in Data Science
+- 🤝  I'm open to collaborating on projects related to Machine Learning or anything that requires some serious brainstorming
 
 
 ## 🌐 Socials:
