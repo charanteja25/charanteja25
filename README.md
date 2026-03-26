@@ -23,20 +23,30 @@ I build ML systems and LLM-powered workflows that reach production — not just 
 
 ## 💻 Skills
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,azure,aws,gcp,docker,git,postgres,mysql,kafka,scala&theme=light)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/langchain" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mlflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/plotly" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/apachespark" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/databricks" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/delta" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scala" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="25"/>
+*Also: Tableau · Power BI · PySpark · Azure Data Factory*
 
 ---
 
