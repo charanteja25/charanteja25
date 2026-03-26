@@ -52,11 +52,13 @@ I build ML systems and LLM-powered workflows that reach production — not just 
 
 ## ✍️ Latest Writing on Medium
 
+<!-- BLOG-POST-LIST:START -->
 - [**Building a Credit Default Risk Model on Databricks**](https://medium.com/@charanteja.gunisetty) &nbsp;· Feb 2026
 - [**Building a Real-World E-commerce Data Pipeline with Databricks and Spark**](https://medium.com/@charanteja.gunisetty) &nbsp;· Jan 2026
 - [**PySpark Transformations Deep Dive: From DataFrames to Real-World Pipelines**](https://medium.com/@charanteja.gunisetty) &nbsp;· Jan 2026
 - [**Day 4: Delta Lake — Introduction to Reliable Data Lakes**](https://medium.com/@charanteja.gunisetty) &nbsp;· Jan 2026
 - [**Day 2: Big Data Exploration with Spark — Architecture, Lazy Evaluation & DataFrames**](https://medium.com/@charanteja.gunisetty) &nbsp;· Jan 2026
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ &nbsp;[Read all articles on Medium](https://medium.com/@charanteja.gunisetty)
 
