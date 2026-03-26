@@ -2,7 +2,7 @@
 
 Data & AI Scientist with 6+ years building ML systems and LLM-powered workflows that reach production — not just notebooks.
 
-- 🚀 &nbsp;Incoming **CTO @ OCTONEXUS POWER** — energy tech venture
+- 🚀 &nbsp;Incoming **CTO @ OCTONEXUS POWER** — fuel cell & green hydrogen energy company · leading AI optimisation and client growth
 - 🌱 &nbsp;**Founding member & Tech Lead @ Aamrutham** — agri e-commerce platform
 - 🔭 &nbsp;Previously @ **Amazon** (logistics ML at scale) and **Fennex** (offshore energy AI — Digital Innovation Award)
 - 🤖 &nbsp;Working with **foundation models**, **autonomous agents**, and **LangChain** for real-world problems
