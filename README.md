@@ -3,13 +3,13 @@ Data & AI Scientist · Technical Consultant @OCTONEXUS POWER
 
 I build ML systems and LLM-powered workflows that reach production — not just notebooks. Passionate about applying AI to real-world problems in energy, finance, and logistics.
 
-🌍 Based in Hyderabad, India — open to roles in India, and UK roles with visa sponsorship
-🚀 Building fuel cell & green hydrogen AI solutions at OCTONEXUS POWER
-🌱 Co-founder of Aamrutham — agri e-commerce platform
-📄 Sole author of an ICLR 2027 submission on LLM compliance verification: compliance-verification-benchmark
-✍️ Writing about RAG, Databricks and data engineering on Medium
-🤝 Open to collaborating on ML, LLM agents, or data engineering projects
-✉️ charanteja.teja25@gmail.com
+- 🌍 Based in Hyderabad, India — open to roles in India, and UK roles with visa sponsorship
+- 🚀 Building fuel cell & green hydrogen AI solutions at OCTONEXUS POWER
+- 🌱 Co-founder of Aamrutham — agri e-commerce platform
+- 📄 Sole author of an ICLR 2027 submission on LLM compliance verification: compliance-verification-benchmark
+- ✍️ Writing about RAG, Databricks and data engineering on Medium
+- 🤝 Open to collaborating on ML, LLM agents, or data engineering projects
+- ✉️ charanteja.teja25@gmail.com
 
 ---
 
